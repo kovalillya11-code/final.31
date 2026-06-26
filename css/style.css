@@ -185,7 +185,7 @@ body {
 
 /* ===== фони ===== */
 .hero-1 {
-    background-image: url('./image/Group 48 1.png');
+    background-image: url('image/Group 48 1.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
