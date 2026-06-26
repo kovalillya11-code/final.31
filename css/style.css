@@ -185,7 +185,7 @@ body {
 
 /* ===== фони ===== */
 .hero-1 {
-    background-image: url('image/Group 48 1.png');
+    background-image: url('image/Group-48-1.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -194,7 +194,7 @@ body {
 }
 
 .hero-2 {
-    background-image: url('./image/photo_2024-11-26_20-44-53.png');
+    background-image: url('image/photo_2024-11-26_20-44-53.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -203,7 +203,7 @@ body {
 }
 
 .hero-3 {
-    background-image: url('./image/1234.png');
+    background-image: url('image/1234.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -240,7 +240,7 @@ body {
 .s-1-3 {
     height: 1000px;
     position: relative;
-    background-image: url('./image/Rectangle 20 (1).png');
+    background-image: url('image/Rectangle-20-1.png');
     background-size: auto 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -254,7 +254,7 @@ body {
 .s-1-5 {
     height: 704px;
     position: relative;
-    background-image: url('./image/Rectangle 12.png');
+    background-image: url('image/Rectangle-12.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -541,7 +541,7 @@ body {
     flex-shrink: 0;
     width: 50px;
     height: 50px;
-    background: url("./image/Group 60.svg") center no-repeat;
+    background: url("image/Group-60.svg") center no-repeat;
 }
 
 /* ===== 2-2: photo grid ===== */
